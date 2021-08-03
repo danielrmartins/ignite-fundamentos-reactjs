@@ -36,7 +36,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     $ yarn install
 
     # Iniciar o projeto
-    $ yarn start
+    $ yarn dev
 ```
 
 ---
